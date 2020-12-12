@@ -1,2 +1,2 @@
 # Notes
-notes for miscellaneous tech notes
+Notes for miscellaneous tech notes
